@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url(/assets/bg.jpg);
+  background-image: url(assets/bg.jpg);
   background-size: cover;
   background-position: center;
   min-height: 100vh;
@@ -64,7 +64,7 @@ body::before {
   content: "";
   position: absolute;
   background-color: rgba(0, 0, 0, 0.3);
-  background:url(/assets/bg-overlay.png);
+  background:url(assets/bg-overlay.png);
   width: 100%;
   height: 100%;
   z-index: -1;
